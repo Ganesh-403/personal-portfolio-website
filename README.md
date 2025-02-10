@@ -24,8 +24,7 @@ This is my **Personal Portfolio Website**, showcasing my skills, projects, and c
 ```
 
 ## 🚀 Live Demo
-🔗 **Check it out here:** [https://Ganesh-403.github.io/my-portfolio/](https://Ganesh-403.github.io/my-portfolio/)  
-(Replace `your-username` with your GitHub username)
+🔗 **Check it out here:** [https://ganesh-403.github.io/personal-portfolio-website/](https://ganesh-403.github.io/personal-portfolio-website/)  
 
 # 🛠️ Technologies Used
 - **HTML5**
